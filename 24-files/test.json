@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "name":"The name in dev",
+        "lastname":"The lastname in dev",
+        "age":"The age in dev"
+    },
+    "prod": {
+        "name":"The name in prod",
+        "lastname":"The lastname in prod",
+        "age":"The age in prod"
+    }
+}
